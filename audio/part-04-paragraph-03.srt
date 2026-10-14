@@ -1,0 +1,36 @@
+1
+00:00:00,100 --> 00:00:02,697
+A puff of smoke rose from a machine.
+
+2
+00:00:02,647 --> 00:00:05,159
+The wind began to blow it away.
+
+3
+00:00:05,159 --> 00:00:11,261
+We compared petrol and gasoline and learned that they name the same fuel; gas can also mean a gaseous fuel.
+
+4
+00:00:11,261 --> 00:00:13,795
+We chose an electric tool instead.
+
+5
+00:00:13,795 --> 00:00:18,079
+After intensive work, the surrounding area was in better condition.
+
+6
+00:00:18,079 --> 00:00:22,999
+The situation improved, but dense clouds made us watch the storm’s intensity.
+
+7
+00:00:23,000 --> 00:00:26,784
+We saw a warning light flash and a worker emerge from the shed.
+
+8
+00:00:26,784 --> 00:00:31,193
+Near deep water, life jackets could help people float rather than drown.
+
+9
+00:00:31,193 --> 00:00:33,488
+Safety came before speed.
+

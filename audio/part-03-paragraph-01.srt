@@ -1,0 +1,36 @@
+1
+00:00:00,100 --> 00:00:02,913
+Our next trip began on a stormy morning.
+
+2
+00:00:02,863 --> 00:00:06,465
+Thunder followed lightning, and a shower became a downpour.
+
+3
+00:00:06,465 --> 00:00:08,488
+Hail struck the window.
+
+4
+00:00:08,488 --> 00:00:13,488
+The forecast predicted heavy rainfall and a temperature near zero degrees Celsius.
+
+5
+00:00:13,488 --> 00:00:16,420
+Outside, a frigid wind brought a chill.
+
+6
+00:00:16,420 --> 00:00:20,772
+I began to shiver, and my hands would tremble whenever I tried to write.
+
+7
+00:00:20,772 --> 00:00:24,386
+Water could freeze overnight, then thaw during the day.
+
+8
+00:00:24,386 --> 00:00:28,534
+By afternoon, only a sprinkle remained, and a rainbow appeared.
+
+9
+00:00:28,534 --> 00:00:31,693
+We waited for our teacher to say the path was safe.
+

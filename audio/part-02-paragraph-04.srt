@@ -1,0 +1,32 @@
+1
+00:00:00,100 --> 00:00:03,140
+Our camp stood near the Tropic of Capricorn.
+
+2
+00:00:03,090 --> 00:00:08,556
+The days were warm and humid, but the higher ground was mild, with more moderate temperatures.
+
+3
+00:00:08,556 --> 00:00:13,420
+One side of the plateau was arid; the other had moist soil and damp stones.
+
+4
+00:00:13,420 --> 00:00:16,875
+Far above, a snowy peak still carried frost.
+
+5
+00:00:16,875 --> 00:00:20,113
+At night, we used heating and thermal blankets.
+
+6
+00:00:20,113 --> 00:00:23,011
+By morning, the team had repaired the pipe.
+
+7
+00:00:23,011 --> 00:00:25,193
+Water returned to the brook.
+
+8
+00:00:25,193 --> 00:00:30,806
+The village had not needed a miracle: it had needed careful observation and a practical repair.
+

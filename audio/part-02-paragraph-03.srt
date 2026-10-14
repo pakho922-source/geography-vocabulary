@@ -1,0 +1,36 @@
+1
+00:00:00,100 --> 00:00:04,186
+Beyond a plain, we climbed a plateau and found a tiny oasis.
+
+2
+00:00:04,136 --> 00:00:08,159
+A superficial inspection will not explain this,’ Mira warned.
+
+3
+00:00:08,159 --> 00:00:11,159
+The village’s water system needed an upgrade.
+
+4
+00:00:11,159 --> 00:00:16,659
+Broken pipes could make conditions deteriorate, aggravate shortages and degrade the land.
+
+5
+00:00:16,659 --> 00:00:19,909
+Heavy rain could also erode the exposed ground.
+
+6
+00:00:19,909 --> 00:00:22,659
+We found a blocked pipe and called the team.
+
+7
+00:00:22,659 --> 00:00:26,079
+While waiting, I opened our meteorology notebook.
+
+8
+00:00:26,079 --> 00:00:30,590
+Climate describes long-term patterns; weather tells us what happens today.
+
+9
+00:00:30,590 --> 00:00:34,284
+A single dry afternoon could not explain the whole problem.
+
